@@ -1,0 +1,13 @@
+Hand Name                Dealt         Chance
+Royal Flush                  1       0.000100%
+Straight Flush              14       0.001400%
+Four of a Kind             232       0.023200%
+Full House                1478       0.147800%
+Flush                     1906       0.190600%
+Straights                 3919       0.391900%
+Three of a Kind          20918       2.091800%
+Two Pair                 47567       4.756700%
+Two of a Kind           422909      42.290900%
+High Card               501056      50.105600%
+
+Total Hands Dealt      1000000
